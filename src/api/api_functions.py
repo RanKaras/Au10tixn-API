@@ -3,7 +3,7 @@ import requests
 import json
 
 repository = "topq-practice/api-practice"
-token = "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"
+token = "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"
 headers = {"Authorization": f"token {token}"}
 repository_owner = "topq-practice"
 repository_name = "api-practice"
